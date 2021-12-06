@@ -1,4 +1,4 @@
-if(rand(5) == 1)
+if(rand(11) == 1)
   puts 'Ребро'
 else
   if (rand(2) == 1)
